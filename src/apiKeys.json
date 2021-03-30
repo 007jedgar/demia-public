@@ -1,0 +1,7 @@
+{
+	"alogoliaSearchKey": "algolia-search-key",
+	"alogoliaAppId": "algolia-app-id",
+	"googleWebClientId":  "google-web-client-id",
+	"stripePublishableKey":  "stripe-publishable-key",
+	"appleMerchantId": "your.merchant.id"
+}
