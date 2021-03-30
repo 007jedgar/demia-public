@@ -3,6 +3,8 @@
 
 Demia is a communication app for students. It's currently on the [Apple Appstore](https://apps.apple.com/us/app/demia-classroom/id1522217932).
 
+![app screenshots](https://firebasestorage.googleapis.com/v0/b/tickets-79e75.appspot.com/o/web_assets%2Fws-bg-showcase.png?alt=media&token=ef048646-b9b4-448e-8ee9-02bdc0361fae)
+
   
 
 ### Inspiration
